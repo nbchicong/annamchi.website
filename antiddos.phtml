@@ -1,0 +1,4 @@
+<?php
+$text=$HTTP_SERVER_VARS['QUERY_STRING']; $text = preg_replace("#php&#si",'php?',$text);
+echo('<center><a href=http://annamchi.com'.$text.'>[Click vào đây]</a><br>để vào trang chính.</center>');
+?>

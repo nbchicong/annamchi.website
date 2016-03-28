@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flash_parameters copyright="socusoftFSMTheme">
+<preferences>
+<global>
+<basic_property movieWidth="580" movieHeight="250" startAutoPlay="true" backgroundColor="0x999999" continuum="true" html_title="Title" loadStyle="Bar" socusoftMenu="false" hideAdobeMenu="false" photoDynamicShow="true" enableURL="false" transitionArray=""/>
+ <title_property photoTitle="false" photoTitleX="5" photoTitleY="25" photoTitleSize="20" photoTitleFont="Verdana" photoTitleColor="0xffffff"/>
+ <music_property path="" stream="true" loop="true"/>
+<photo_property topPadding="0" bottomPadding="0" leftPadding="0" rightPadding="0"/>
+<properties enable="false" backgroundColor="0xffffff" backgroundAlpha="30" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:15px; font-style:italic; text-decoration: underline;} .body{color:#ff5500;font-size:20px;}" align="top"/>
+</global>
+<control>
+<basic_property showControl="false" showControlX="-30" showControlY="460" showPreviousButton="res/previous01.gif" showPreviousButtonX="50" showStopButton="res/stop01.gif" showStopButtonX="97" showPlayButton="res/play01.gif" showPlayButtonX="97" showNextButton="res/next01.gif" showNextButtonX="124" showSoundButtonX="182"/>
+</control>
+</preferences>
+<album>
+ </album>
+ </flash_parameters>

@@ -1,0 +1,726 @@
+[18-Jul-2011 17:19:55] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 82
+[18-Jul-2011 17:19:55] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1310984395DG3-01.jpg' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 82
+[18-Jul-2011 17:19:55] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[18-Jul-2011 17:19:55] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[18-Jul-2011 17:24:05] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 44
+[18-Jul-2011 17:24:05] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 45
+[18-Jul-2011 17:24:05] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 46
+[18-Jul-2011 17:24:05] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 47
+[18-Jul-2011 17:24:33] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 82
+[18-Jul-2011 17:24:33] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1310984673DG3-01.jpg' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 82
+[18-Jul-2011 17:24:33] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[18-Jul-2011 17:24:33] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[18-Jul-2011 17:25:26] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 82
+[18-Jul-2011 17:25:26] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1310984726DG3-01.jpg' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 82
+[18-Jul-2011 17:25:26] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[18-Jul-2011 17:25:26] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[18-Jul-2011 17:25:55] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 97
+[18-Jul-2011 17:25:55] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1310984755DG-03.png' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 97
+[18-Jul-2011 17:25:55] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[18-Jul-2011 17:25:55] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[18-Jul-2011 17:26:36] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 82
+[18-Jul-2011 17:26:36] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1310984796DG3-01.jpg' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 82
+[18-Jul-2011 17:26:36] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[18-Jul-2011 17:26:36] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[18-Jul-2011 17:27:01] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 97
+[18-Jul-2011 17:27:01] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1310984821DC-01.png' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 97
+[18-Jul-2011 17:27:01] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[18-Jul-2011 17:27:01] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[18-Jul-2011 17:28:21] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 97
+[18-Jul-2011 17:28:21] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1310984901DC-01.png' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 97
+[18-Jul-2011 17:28:21] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[18-Jul-2011 17:28:21] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[18-Jul-2011 17:29:48] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 97
+[18-Jul-2011 17:29:48] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1310984988DG-03.png' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 97
+[18-Jul-2011 17:29:48] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[18-Jul-2011 17:29:48] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[18-Jul-2011 17:30:12] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 97
+[18-Jul-2011 17:30:12] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1310985012DC-03.png' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 97
+[18-Jul-2011 17:30:12] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[18-Jul-2011 17:30:12] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[29-Aug-2011 23:05:34] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 67528 bytes) in /home/annamchi/public_html/admin/Product.php on line 82
+[01-Sep-2011 15:43:09] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 27776 bytes) in /home/annamchi/public_html/admin/Product.php on line 82
+[01-Sep-2011 15:44:27] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 82
+[01-Sep-2011 15:44:27] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1314866667DG3-01.jpg' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 82
+[01-Sep-2011 15:44:27] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[01-Sep-2011 15:44:27] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[07-Sep-2011 13:10:27] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 5747 bytes) in /home/annamchi/public_html/admin/Product.php on line 82
+[07-Sep-2011 13:14:44] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 5747 bytes) in /home/annamchi/public_html/admin/Product.php on line 82
+[07-Sep-2011 14:48:37] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 44
+[07-Sep-2011 14:48:37] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 45
+[07-Sep-2011 14:48:37] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 46
+[07-Sep-2011 14:48:37] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 47
+[15-Sep-2011 21:54:34] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33332 bytes) in /home/annamchi/public_html/admin/Product.php on line 82
+[15-Sep-2011 21:55:45] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33332 bytes) in /home/annamchi/public_html/admin/Product.php on line 82
+[15-Sep-2011 21:57:56] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 44
+[15-Sep-2011 21:57:56] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 45
+[15-Sep-2011 21:57:56] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 46
+[15-Sep-2011 21:57:56] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 47
+[15-Sep-2011 21:59:37] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33332 bytes) in /home/annamchi/public_html/admin/Product.php on line 82
+[15-Sep-2011 22:05:55] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33332 bytes) in /home/annamchi/public_html/admin/Product.php on line 82
+[20-Sep-2011 16:39:14] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 97
+[20-Sep-2011 16:39:14] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1316511554hopbut.png' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 97
+[20-Sep-2011 16:39:14] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[20-Sep-2011 16:39:14] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[20-Sep-2011 16:41:53] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 97
+[20-Sep-2011 16:41:53] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1316511713hopbut.png' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 97
+[20-Sep-2011 16:41:53] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[20-Sep-2011 16:41:53] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[20-Sep-2011 16:46:20] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 97
+[20-Sep-2011 16:46:20] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1316511980hopbut.png' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 97
+[20-Sep-2011 16:46:20] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[20-Sep-2011 16:46:20] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[20-Sep-2011 16:59:10] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 97
+[20-Sep-2011 16:59:10] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1316512750hopbut.png' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 97
+[20-Sep-2011 16:59:10] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[20-Sep-2011 16:59:10] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[20-Sep-2011 17:02:54] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/annamchi/public_html/admin/Product.php on line 97
+[20-Sep-2011 17:02:54] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../images/product/goc/1316512974hopbut.png' is not a valid JPEG file in /home/annamchi/public_html/admin/Product.php on line 97
+[20-Sep-2011 17:02:54] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 101
+[20-Sep-2011 17:02:54] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 106
+[20-Sep-2011 17:21:13] PHP Warning:  include(define_data.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/annamchi/public_html/admin/index.php on line 12
+[20-Sep-2011 17:21:13] PHP Warning:  include(define_data.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/annamchi/public_html/admin/index.php on line 12
+[20-Sep-2011 17:21:13] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'define_data.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/annamchi/public_html/admin/index.php on line 12
+[20-Sep-2011 17:21:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/annamchi/public_html/admin/config.php on line 72
+[20-Sep-2011 17:21:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/annamchi/public_html/admin/config.php on line 85
+[20-Sep-2011 17:21:15] PHP Warning:  include(define_data.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/annamchi/public_html/admin/index.php on line 12
+[20-Sep-2011 17:21:15] PHP Warning:  include(define_data.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/annamchi/public_html/admin/index.php on line 12
+[20-Sep-2011 17:21:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'define_data.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/annamchi/public_html/admin/index.php on line 12
+[20-Sep-2011 17:21:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/annamchi/public_html/admin/config.php on line 72
+[21-Sep-2011 20:25:54] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 44
+[21-Sep-2011 20:25:54] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 45
+[21-Sep-2011 20:25:54] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 46
+[21-Sep-2011 20:25:54] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 47
+[27-Sep-2011 10:24:12] PHP Warning:  unlink(../images/ads/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/annamchi/public_html/admin/manager_adverting.php on line 11
+[01-Oct-2011 09:46:03] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 44
+[01-Oct-2011 09:46:03] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 45
+[01-Oct-2011 09:46:03] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 46
+[01-Oct-2011 09:46:03] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 47
+[02-Oct-2011 23:40:49] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: Unable to access ../images/product/goc/1317573649aothun.jpg in /home/annamchi/public_html/admin/Product.php on line 82
+[02-Oct-2011 23:40:49] PHP Warning:  imagecreatefromjpeg(../images/product/goc/1317573649aothun.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/annamchi/public_html/admin/Product.php on line 82
+[02-Oct-2011 23:40:49] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 102
+[02-Oct-2011 23:40:49] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 107
+[02-Oct-2011 23:43:05] PHP Warning:  unlink(../images/product/goc/1317573649aothun.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/annamchi/public_html/admin/Product.php on line 381
+[09-Oct-2011 01:17:43] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: Unable to access ../images/product/goc/1318097863ANC-BL 08.jpg in /home/annamchi/public_html/admin/Product.php on line 82
+[09-Oct-2011 01:17:43] PHP Warning:  imagecreatefromjpeg(../images/product/goc/1318097863ANC-BL 08.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/annamchi/public_html/admin/Product.php on line 82
+[09-Oct-2011 01:17:43] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 102
+[09-Oct-2011 01:17:44] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/annamchi/public_html/admin/Product.php on line 107
+[09-Oct-2011 01:17:44] PHP Warning:  unlink(../images/product/goc/1318097863ANC-BL 08.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/annamchi/public_html/admin/Product.php on line 112
+[04-Dec-2012 10:12:07] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[04-Dec-2012 10:12:07] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[04-Dec-2012 10:12:17] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[04-Dec-2012 10:12:17] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[04-Dec-2012 10:12:23] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[04-Dec-2012 10:12:33] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[04-Dec-2012 10:12:33] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[04-Dec-2012 10:12:33] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[12-Dec-2012 22:11:44] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[12-Dec-2012 22:11:44] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[12-Dec-2012 22:12:00] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[12-Dec-2012 22:12:00] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[12-Dec-2012 22:12:07] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[12-Dec-2012 22:12:13] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[12-Dec-2012 22:12:13] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[12-Dec-2012 22:12:13] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:00:19] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:00:19] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:00:22] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:00:22] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:00:24] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:00:57] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:01:00] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:01:04] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:01:06] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:01:09] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:01:22] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:01:43] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:02:11] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:02:15] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:02:28] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:02:57] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:04:46] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:26:03] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:26:28] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:26:40] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:26:45] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:04] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:06] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:09] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:11] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:12] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:15] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:19] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:22] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:24] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:26] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:29] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:29] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[13-Dec-2012 15:27:29] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:05] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:06] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:10] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:10] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:14] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:16] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:17] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:19] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:21] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:23] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:24] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:25] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:27] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[07-Jan-2013 03:09:29] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[09-Jan-2013 23:05:50] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[09-Jan-2013 23:05:51] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[09-Jan-2013 23:06:01] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[09-Jan-2013 23:06:02] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[09-Jan-2013 23:06:05] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[09-Jan-2013 23:06:10] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[09-Jan-2013 23:06:10] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[09-Jan-2013 23:06:10] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Jan-2013 22:38:30] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Jan-2013 22:38:31] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Jan-2013 22:38:47] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[19-Jan-2013 22:38:47] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:16:53] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:16:53] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:03] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:04] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:13] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:18] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:27] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:33] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:34] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:43] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:45] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:46] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:49] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:54] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:54] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[05-Mar-2013 19:17:54] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Mar-2013 01:08:42] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Mar-2013 01:08:42] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Mar-2013 01:08:51] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Mar-2013 01:08:52] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Mar-2013 01:08:55] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Mar-2013 01:09:00] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Mar-2013 01:09:00] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[22-Mar-2013 01:09:00] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[25-Mar-2013 23:10:44] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[25-Mar-2013 23:10:44] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[25-Mar-2013 23:10:48] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[25-Mar-2013 23:10:48] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[25-Mar-2013 23:10:54] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[25-Mar-2013 23:10:56] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[25-Mar-2013 23:11:00] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[25-Mar-2013 23:11:35] PHP Warning:  Cannot load module 'XCache' because conflicting module 'eAccelerator' is already loaded in Unknown on line 0
+[06-Sep-2014 02:12:17] PHP Warning:  mail() has been disabled for security reasons in /home/annamchi/public_html/admin/LostPass.php on line 47
+[23-Jul-2015 20:57:51 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Jul-2015 20:57:51 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[23-Jul-2015 20:57:51 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[23-Jul-2015 20:57:51 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[23-Jul-2015 20:58:43 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Jul-2015 20:58:43 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[23-Jul-2015 20:58:43 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[23-Jul-2015 20:58:43 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[03-Aug-2015 05:31:07 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[03-Aug-2015 05:31:08 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[03-Aug-2015 05:31:08 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[03-Aug-2015 05:31:08 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[10-Aug-2015 19:37:48 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:37:48 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[10-Aug-2015 19:37:48 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[10-Aug-2015 19:37:48 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[10-Aug-2015 19:37:51 Asia/Bangkok] PHP Notice:  Undefined index: mana_modul in /home/annamchi/public_html/admin/check_login.php on line 17
+[10-Aug-2015 19:37:51 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:37:51 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[10-Aug-2015 19:37:54 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:37:54 Asia/Bangkok] PHP Notice:  Undefined index: InsertCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 6
+[10-Aug-2015 19:37:54 Asia/Bangkok] PHP Notice:  Undefined index: EditCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 19
+[10-Aug-2015 19:37:54 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/MenuProduct.php on line 30
+[10-Aug-2015 19:37:54 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/MenuProduct.php on line 46
+[10-Aug-2015 19:37:54 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/MenuProduct.php on line 67
+[10-Aug-2015 19:37:54 Asia/Bangkok] PHP Notice:  Undefined index: capnhat in /home/annamchi/public_html/admin/MenuProduct.php on line 86
+[10-Aug-2015 19:37:54 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 140
+[10-Aug-2015 19:37:54 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/annamchi/public_html/admin/MenuProduct.php on line 154
+[10-Aug-2015 19:37:54 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 175
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: file in /home/annamchi/public_html/admin/Product.php on line 34
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/Product.php on line 136
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/Product.php on line 169
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/Product.php on line 185
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/Product.php on line 217
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 333
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 490
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/Product.php on line 490
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 500
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 530
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 546
+[10-Aug-2015 19:37:56 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/Product.php on line 547
+[10-Aug-2015 19:37:59 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:37:59 Asia/Bangkok] PHP Notice:  Undefined index: file in /home/annamchi/public_html/admin/Product.php on line 34
+[10-Aug-2015 19:37:59 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/Product.php on line 136
+[10-Aug-2015 19:37:59 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/Product.php on line 169
+[10-Aug-2015 19:37:59 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/Product.php on line 185
+[10-Aug-2015 19:37:59 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/Product.php on line 217
+[10-Aug-2015 19:37:59 Asia/Bangkok] PHP Notice:  Undefined index: Send in /home/annamchi/public_html/admin/Product.php on line 348
+[10-Aug-2015 19:38:04 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:38:04 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/annamchi/public_html/admin/manager_adverting.php on line 4
+[10-Aug-2015 19:38:04 Asia/Bangkok] PHP Notice:  Undefined index: InsertAds in /home/annamchi/public_html/admin/manager_adverting.php on line 25
+[10-Aug-2015 19:38:04 Asia/Bangkok] PHP Notice:  Undefined index: Ads in /home/annamchi/public_html/admin/manager_adverting.php on line 40
+[10-Aug-2015 19:38:04 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/manager_adverting.php on line 63
+[10-Aug-2015 19:38:04 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/manager_adverting.php on line 78
+[10-Aug-2015 19:38:04 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/manager_adverting.php on line 95
+[10-Aug-2015 19:38:04 Asia/Bangkok] PHP Notice:  Undefined variable: id in /home/annamchi/public_html/admin/manager_adverting.php on line 126
+[10-Aug-2015 19:38:04 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/manager_adverting.php on line 151
+[10-Aug-2015 19:38:04 Asia/Bangkok] PHP Notice:  Undefined index: menu in /home/annamchi/public_html/admin/manager_adverting.php on line 239
+[10-Aug-2015 19:38:04 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/manager_adverting.php on line 240
+[10-Aug-2015 19:38:07 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:38:07 Asia/Bangkok] PHP Notice:  Undefined index: InsertUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 4
+[10-Aug-2015 19:38:07 Asia/Bangkok] PHP Notice:  Undefined index: UpdateUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 16
+[10-Aug-2015 19:38:07 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/SupportOnline.php on line 31
+[10-Aug-2015 19:38:07 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/SupportOnline.php on line 46
+[10-Aug-2015 19:38:07 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/SupportOnline.php on line 61
+[10-Aug-2015 19:38:07 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 78
+[10-Aug-2015 19:38:07 Asia/Bangkok] PHP Notice:  Undefined variable: id in /home/annamchi/public_html/admin/SupportOnline.php on line 99
+[10-Aug-2015 19:38:07 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 127
+[10-Aug-2015 19:38:09 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:38:09 Asia/Bangkok] PHP Notice:  Undefined index: UpdatePass in /home/annamchi/public_html/admin/change_pass.php on line 4
+[10-Aug-2015 19:38:15 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:38:16 Asia/Bangkok] PHP Notice:  Undefined index: InsertNews in /home/annamchi/public_html/admin/thanhvien.php on line 15
+[10-Aug-2015 19:38:16 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/thanhvien.php on line 40
+[10-Aug-2015 19:38:16 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/thanhvien.php on line 54
+[10-Aug-2015 19:38:16 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/thanhvien.php on line 68
+[10-Aug-2015 19:38:16 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/thanhvien.php on line 83
+[10-Aug-2015 19:38:16 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/thanhvien.php on line 165
+[10-Aug-2015 19:38:25 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:38:25 Asia/Bangkok] PHP Notice:  Undefined index: InsertNews in /home/annamchi/public_html/admin/thanhvien.php on line 15
+[10-Aug-2015 19:38:25 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/thanhvien.php on line 40
+[10-Aug-2015 19:38:25 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/thanhvien.php on line 54
+[10-Aug-2015 19:38:25 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/thanhvien.php on line 68
+[10-Aug-2015 19:38:25 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/thanhvien.php on line 165
+[10-Aug-2015 19:38:32 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:38:32 Asia/Bangkok] PHP Notice:  Undefined index: InsertCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 6
+[10-Aug-2015 19:38:32 Asia/Bangkok] PHP Notice:  Undefined index: EditCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 19
+[10-Aug-2015 19:38:32 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/MenuProduct.php on line 30
+[10-Aug-2015 19:38:32 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/MenuProduct.php on line 46
+[10-Aug-2015 19:38:32 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/MenuProduct.php on line 67
+[10-Aug-2015 19:38:32 Asia/Bangkok] PHP Notice:  Undefined index: capnhat in /home/annamchi/public_html/admin/MenuProduct.php on line 86
+[10-Aug-2015 19:38:32 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 140
+[10-Aug-2015 19:38:32 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/annamchi/public_html/admin/MenuProduct.php on line 154
+[10-Aug-2015 19:38:32 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 175
+[10-Aug-2015 19:38:34 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:38:34 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/annamchi/public_html/admin/manager_adverting.php on line 4
+[10-Aug-2015 19:38:34 Asia/Bangkok] PHP Notice:  Undefined index: InsertAds in /home/annamchi/public_html/admin/manager_adverting.php on line 25
+[10-Aug-2015 19:38:34 Asia/Bangkok] PHP Notice:  Undefined index: Ads in /home/annamchi/public_html/admin/manager_adverting.php on line 40
+[10-Aug-2015 19:38:34 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/manager_adverting.php on line 63
+[10-Aug-2015 19:38:34 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/manager_adverting.php on line 78
+[10-Aug-2015 19:38:34 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/manager_adverting.php on line 95
+[10-Aug-2015 19:38:34 Asia/Bangkok] PHP Notice:  Undefined variable: id in /home/annamchi/public_html/admin/manager_adverting.php on line 126
+[10-Aug-2015 19:38:34 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/manager_adverting.php on line 151
+[10-Aug-2015 19:38:34 Asia/Bangkok] PHP Notice:  Undefined index: menu in /home/annamchi/public_html/admin/manager_adverting.php on line 239
+[10-Aug-2015 19:38:34 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/manager_adverting.php on line 240
+[10-Aug-2015 19:38:36 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:38:36 Asia/Bangkok] PHP Notice:  Undefined index: InsertUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 4
+[10-Aug-2015 19:38:36 Asia/Bangkok] PHP Notice:  Undefined index: UpdateUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 16
+[10-Aug-2015 19:38:36 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/SupportOnline.php on line 31
+[10-Aug-2015 19:38:36 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/SupportOnline.php on line 46
+[10-Aug-2015 19:38:36 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/SupportOnline.php on line 61
+[10-Aug-2015 19:38:36 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 78
+[10-Aug-2015 19:38:36 Asia/Bangkok] PHP Notice:  Undefined variable: id in /home/annamchi/public_html/admin/SupportOnline.php on line 99
+[10-Aug-2015 19:38:36 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 127
+[10-Aug-2015 19:38:37 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:38:37 Asia/Bangkok] PHP Notice:  Undefined index: UpdatePass in /home/annamchi/public_html/admin/change_pass.php on line 4
+[10-Aug-2015 19:38:38 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:38:38 Asia/Bangkok] PHP Notice:  Undefined index: InsertNews in /home/annamchi/public_html/admin/thanhvien.php on line 15
+[10-Aug-2015 19:38:38 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/thanhvien.php on line 40
+[10-Aug-2015 19:38:38 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/thanhvien.php on line 54
+[10-Aug-2015 19:38:38 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/thanhvien.php on line 68
+[10-Aug-2015 19:38:38 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/thanhvien.php on line 83
+[10-Aug-2015 19:38:38 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/thanhvien.php on line 165
+[10-Aug-2015 19:38:41 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:38:41 Asia/Bangkok] PHP Notice:  Undefined index: InsertNews in /home/annamchi/public_html/admin/thanhvien.php on line 15
+[10-Aug-2015 19:38:41 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/thanhvien.php on line 40
+[10-Aug-2015 19:38:41 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/thanhvien.php on line 54
+[10-Aug-2015 19:38:41 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/thanhvien.php on line 68
+[10-Aug-2015 19:38:41 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/thanhvien.php on line 83
+[10-Aug-2015 19:38:41 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/thanhvien.php on line 165
+[10-Aug-2015 19:39:34 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[10-Aug-2015 19:39:34 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[10-Aug-2015 19:39:34 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[10-Aug-2015 19:39:34 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[10-Aug-2015 19:39:36 Asia/Bangkok] PHP Notice:  Undefined index: Send in /home/annamchi/public_html/admin/LostPass.php on line 22
+[10-Aug-2015 19:39:36 Asia/Bangkok] PHP Notice:  Undefined index: stringcode in /home/annamchi/public_html/admin/config.php on line 13
+[10-Aug-2015 19:39:36 Asia/Bangkok] PHP Notice:  Undefined variable: string in /home/annamchi/public_html/admin/config.php on line 21
+[10-Aug-2015 19:39:36 Asia/Bangkok] PHP Deprecated:  Function session_register() is deprecated in /home/annamchi/public_html/admin/config.php on line 23
+[22-Aug-2015 06:49:42 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:49:42 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[22-Aug-2015 06:49:42 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[22-Aug-2015 06:49:42 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[22-Aug-2015 06:49:44 Asia/Bangkok] PHP Notice:  Undefined index: mana_modul in /home/annamchi/public_html/admin/check_login.php on line 17
+[22-Aug-2015 06:49:44 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:49:44 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[22-Aug-2015 06:49:48 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:49:48 Asia/Bangkok] PHP Notice:  Undefined index: InsertCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 6
+[22-Aug-2015 06:49:48 Asia/Bangkok] PHP Notice:  Undefined index: EditCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 19
+[22-Aug-2015 06:49:48 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/MenuProduct.php on line 30
+[22-Aug-2015 06:49:48 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/MenuProduct.php on line 46
+[22-Aug-2015 06:49:48 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/MenuProduct.php on line 67
+[22-Aug-2015 06:49:48 Asia/Bangkok] PHP Notice:  Undefined index: capnhat in /home/annamchi/public_html/admin/MenuProduct.php on line 86
+[22-Aug-2015 06:49:48 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 140
+[22-Aug-2015 06:49:48 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/annamchi/public_html/admin/MenuProduct.php on line 154
+[22-Aug-2015 06:49:48 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 175
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: file in /home/annamchi/public_html/admin/Product.php on line 34
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/Product.php on line 136
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/Product.php on line 169
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/Product.php on line 185
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/Product.php on line 217
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 333
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 490
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/Product.php on line 490
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 500
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 530
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 546
+[22-Aug-2015 06:50:28 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/Product.php on line 547
+[22-Aug-2015 06:50:33 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:50:33 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/gioithieu.php on line 12
+[22-Aug-2015 06:50:33 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/gioithieu.php on line 29
+[22-Aug-2015 06:50:33 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/gioithieu.php on line 44
+[22-Aug-2015 06:50:33 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/gioithieu.php on line 62
+[22-Aug-2015 06:50:33 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/gioithieu.php on line 149
+[22-Aug-2015 06:50:33 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/gioithieu.php on line 280
+[22-Aug-2015 06:50:35 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:50:35 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/gioithieu.php on line 12
+[22-Aug-2015 06:50:35 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/gioithieu.php on line 29
+[22-Aug-2015 06:50:35 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/gioithieu.php on line 44
+[22-Aug-2015 06:50:35 Asia/Bangkok] PHP Notice:  Undefined index: Send in /home/annamchi/public_html/admin/gioithieu.php on line 73
+[22-Aug-2015 06:50:35 Asia/Bangkok] PHP Notice:  Undefined index: title in /home/annamchi/public_html/admin/gioithieu.php on line 109
+[22-Aug-2015 06:50:35 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/gioithieu.php on line 124
+[22-Aug-2015 06:50:35 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/gioithieu.php on line 149
+[22-Aug-2015 06:50:35 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/gioithieu.php on line 280
+[22-Aug-2015 06:50:40 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:50:40 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/contact.php on line 8
+[22-Aug-2015 06:50:40 Asia/Bangkok] PHP Notice:  Undefined index: view in /home/annamchi/public_html/admin/contact.php on line 28
+[22-Aug-2015 06:50:40 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/contact.php on line 93
+[22-Aug-2015 06:50:40 Asia/Bangkok] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead in /home/annamchi/public_html/admin/contact.php on line 110
+[22-Aug-2015 06:50:40 Asia/Bangkok] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead in /home/annamchi/public_html/admin/contact.php on line 110
+[22-Aug-2015 06:50:43 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:50:43 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/contact.php on line 8
+[22-Aug-2015 06:50:43 Asia/Bangkok] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead in /home/annamchi/public_html/admin/contact.php on line 65
+[22-Aug-2015 06:50:43 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/contact.php on line 93
+[22-Aug-2015 06:50:43 Asia/Bangkok] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead in /home/annamchi/public_html/admin/contact.php on line 110
+[22-Aug-2015 06:50:43 Asia/Bangkok] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead in /home/annamchi/public_html/admin/contact.php on line 110
+[22-Aug-2015 06:50:53 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:50:53 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/contact.php on line 8
+[22-Aug-2015 06:50:53 Asia/Bangkok] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead in /home/annamchi/public_html/admin/contact.php on line 65
+[22-Aug-2015 06:50:53 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/contact.php on line 93
+[22-Aug-2015 06:50:53 Asia/Bangkok] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead in /home/annamchi/public_html/admin/contact.php on line 110
+[22-Aug-2015 06:50:53 Asia/Bangkok] PHP Warning:  date() [<a href='function.date'>function.date</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'Asia/Bangkok' for 'ICT/7.0/no DST' instead in /home/annamchi/public_html/admin/contact.php on line 110
+[22-Aug-2015 06:50:55 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:50:55 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/annamchi/public_html/admin/manager_adverting.php on line 4
+[22-Aug-2015 06:50:55 Asia/Bangkok] PHP Notice:  Undefined index: InsertAds in /home/annamchi/public_html/admin/manager_adverting.php on line 25
+[22-Aug-2015 06:50:55 Asia/Bangkok] PHP Notice:  Undefined index: Ads in /home/annamchi/public_html/admin/manager_adverting.php on line 40
+[22-Aug-2015 06:50:55 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/manager_adverting.php on line 63
+[22-Aug-2015 06:50:55 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/manager_adverting.php on line 78
+[22-Aug-2015 06:50:55 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/manager_adverting.php on line 95
+[22-Aug-2015 06:50:55 Asia/Bangkok] PHP Notice:  Undefined variable: id in /home/annamchi/public_html/admin/manager_adverting.php on line 126
+[22-Aug-2015 06:50:55 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/manager_adverting.php on line 151
+[22-Aug-2015 06:50:55 Asia/Bangkok] PHP Notice:  Undefined index: menu in /home/annamchi/public_html/admin/manager_adverting.php on line 239
+[22-Aug-2015 06:50:55 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/manager_adverting.php on line 240
+[22-Aug-2015 06:50:58 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:50:58 Asia/Bangkok] PHP Notice:  Undefined index: InsertUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 4
+[22-Aug-2015 06:50:58 Asia/Bangkok] PHP Notice:  Undefined index: UpdateUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 16
+[22-Aug-2015 06:50:58 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/SupportOnline.php on line 31
+[22-Aug-2015 06:50:58 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/SupportOnline.php on line 46
+[22-Aug-2015 06:50:58 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/SupportOnline.php on line 61
+[22-Aug-2015 06:50:58 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 78
+[22-Aug-2015 06:50:58 Asia/Bangkok] PHP Notice:  Undefined variable: id in /home/annamchi/public_html/admin/SupportOnline.php on line 99
+[22-Aug-2015 06:50:58 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 127
+[22-Aug-2015 06:51:00 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[22-Aug-2015 06:51:00 Asia/Bangkok] PHP Notice:  Undefined index: InsertCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 6
+[22-Aug-2015 06:51:00 Asia/Bangkok] PHP Notice:  Undefined index: EditCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 19
+[22-Aug-2015 06:51:00 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/MenuProduct.php on line 30
+[22-Aug-2015 06:51:00 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/MenuProduct.php on line 46
+[22-Aug-2015 06:51:00 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/MenuProduct.php on line 67
+[22-Aug-2015 06:51:00 Asia/Bangkok] PHP Notice:  Undefined index: capnhat in /home/annamchi/public_html/admin/MenuProduct.php on line 86
+[22-Aug-2015 06:51:00 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 140
+[22-Aug-2015 06:51:00 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/annamchi/public_html/admin/MenuProduct.php on line 154
+[22-Aug-2015 06:51:00 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 175
+[23-Aug-2015 17:44:55 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Aug-2015 17:44:55 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[23-Aug-2015 17:44:55 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[23-Aug-2015 17:44:55 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[29-Aug-2015 20:07:23 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[29-Aug-2015 20:07:23 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[29-Aug-2015 20:07:23 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[29-Aug-2015 20:07:23 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[29-Aug-2015 20:07:27 Asia/Bangkok] PHP Notice:  Undefined index: mana_modul in /home/annamchi/public_html/admin/check_login.php on line 17
+[29-Aug-2015 20:07:27 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[29-Aug-2015 20:07:27 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[29-Aug-2015 20:07:29 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[29-Aug-2015 20:07:29 Asia/Bangkok] PHP Notice:  Undefined index: InsertCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 6
+[29-Aug-2015 20:07:29 Asia/Bangkok] PHP Notice:  Undefined index: EditCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 19
+[29-Aug-2015 20:07:29 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/MenuProduct.php on line 30
+[29-Aug-2015 20:07:29 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/MenuProduct.php on line 46
+[29-Aug-2015 20:07:29 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/MenuProduct.php on line 67
+[29-Aug-2015 20:07:29 Asia/Bangkok] PHP Notice:  Undefined index: capnhat in /home/annamchi/public_html/admin/MenuProduct.php on line 86
+[29-Aug-2015 20:07:29 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 140
+[29-Aug-2015 20:07:29 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/annamchi/public_html/admin/MenuProduct.php on line 154
+[29-Aug-2015 20:07:29 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 175
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: file in /home/annamchi/public_html/admin/Product.php on line 34
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/Product.php on line 136
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/Product.php on line 169
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/Product.php on line 185
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/Product.php on line 217
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 333
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 490
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/Product.php on line 490
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 500
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 530
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 546
+[29-Aug-2015 20:07:44 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/Product.php on line 547
+[29-Aug-2015 20:07:48 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[29-Aug-2015 20:07:48 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/gioithieu.php on line 12
+[29-Aug-2015 20:07:48 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/gioithieu.php on line 29
+[29-Aug-2015 20:07:48 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/gioithieu.php on line 44
+[29-Aug-2015 20:07:48 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/gioithieu.php on line 62
+[29-Aug-2015 20:07:48 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/gioithieu.php on line 149
+[29-Aug-2015 20:07:48 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/gioithieu.php on line 280
+[29-Aug-2015 20:07:49 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[29-Aug-2015 20:07:49 Asia/Bangkok] PHP Notice:  Undefined index: InsertNews in /home/annamchi/public_html/admin/thanhvien.php on line 15
+[29-Aug-2015 20:07:49 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/thanhvien.php on line 40
+[29-Aug-2015 20:07:49 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/thanhvien.php on line 54
+[29-Aug-2015 20:07:49 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/thanhvien.php on line 68
+[29-Aug-2015 20:07:49 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/thanhvien.php on line 83
+[29-Aug-2015 20:07:49 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/thanhvien.php on line 165
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: file in /home/annamchi/public_html/admin/Product.php on line 34
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/Product.php on line 136
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/Product.php on line 169
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/Product.php on line 185
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/Product.php on line 217
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 333
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 490
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/Product.php on line 490
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 500
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 530
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 546
+[29-Aug-2015 20:07:51 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/Product.php on line 547
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: file in /home/annamchi/public_html/admin/Product.php on line 34
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/Product.php on line 136
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/Product.php on line 169
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/Product.php on line 185
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: Send in /home/annamchi/public_html/admin/Product.php on line 220
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: title in /home/annamchi/public_html/admin/Product.php on line 260
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 267
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: subCategory in /home/annamchi/public_html/admin/Product.php on line 277
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 277
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: price in /home/annamchi/public_html/admin/Product.php on line 285
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/Product.php on line 299
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/Product.php on line 310
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 333
+[29-Aug-2015 20:07:55 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 490
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: file in /home/annamchi/public_html/admin/Product.php on line 34
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/Product.php on line 136
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/Product.php on line 169
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/Product.php on line 185
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: Send in /home/annamchi/public_html/admin/Product.php on line 220
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: title in /home/annamchi/public_html/admin/Product.php on line 260
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 267
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: subCategory in /home/annamchi/public_html/admin/Product.php on line 277
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 277
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: price in /home/annamchi/public_html/admin/Product.php on line 285
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/Product.php on line 299
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/Product.php on line 310
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 333
+[30-Aug-2015 06:13:02 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 490
+[30-Aug-2015 06:13:18 Asia/Bangkok] PHP Notice:  Undefined index: SubCategory in /home/annamchi/public_html/admin/Category.php on line 17
+[30-Aug-2015 06:13:18 Asia/Bangkok] PHP Notice:  Undefined index: SubCategory in /home/annamchi/public_html/admin/Category.php on line 17
+[30-Aug-2015 06:13:18 Asia/Bangkok] PHP Notice:  Undefined index: SubCategory in /home/annamchi/public_html/admin/Category.php on line 17
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 44
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 45
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 46
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 47
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/Product.php on line 136
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/Product.php on line 169
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/Product.php on line 185
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Notice:  Undefined index: Send in /home/annamchi/public_html/admin/Product.php on line 220
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Notice:  Undefined index: subCategory in /home/annamchi/public_html/admin/Product.php on line 277
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/Product.php on line 299
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/Product.php on line 310
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 333
+[30-Aug-2015 06:14:04 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 490
+[30-Aug-2015 18:23:48 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[30-Aug-2015 18:23:48 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/Product.php on line 24
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 24
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 44
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home/annamchi/public_html/admin/Product.php on line 45
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 46
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Warning:  Division by zero in /home/annamchi/public_html/admin/Product.php on line 47
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/Product.php on line 136
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/Product.php on line 169
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/Product.php on line 185
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Notice:  Undefined index: Send in /home/annamchi/public_html/admin/Product.php on line 220
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Notice:  Undefined index: subCategory in /home/annamchi/public_html/admin/Product.php on line 277
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/Product.php on line 299
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/Product.php on line 310
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 333
+[30-Aug-2015 18:23:49 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 490
+[30-Aug-2015 18:23:50 Asia/Bangkok] PHP Notice:  Undefined index: mana_modul in /home/annamchi/public_html/admin/check_login.php on line 17
+[30-Aug-2015 18:23:50 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[30-Aug-2015 18:23:50 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[15-Sep-2015 21:11:56 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[15-Sep-2015 21:11:56 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[15-Sep-2015 21:11:56 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[15-Sep-2015 21:11:56 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[03-Nov-2015 23:28:55 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[03-Nov-2015 23:28:55 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[03-Nov-2015 23:28:55 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[03-Nov-2015 23:28:55 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[03-Nov-2015 23:29:29 Asia/Bangkok] PHP Notice:  Undefined index: mana_modul in /home/annamchi/public_html/admin/check_login.php on line 17
+[03-Nov-2015 23:29:29 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[03-Nov-2015 23:29:29 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[03-Nov-2015 23:29:37 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[03-Nov-2015 23:29:37 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/gioithieu.php on line 12
+[03-Nov-2015 23:29:37 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/gioithieu.php on line 29
+[03-Nov-2015 23:29:37 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/gioithieu.php on line 44
+[03-Nov-2015 23:29:37 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/gioithieu.php on line 62
+[03-Nov-2015 23:29:37 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/gioithieu.php on line 149
+[03-Nov-2015 23:29:37 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/gioithieu.php on line 280
+[03-Nov-2015 23:29:39 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[03-Nov-2015 23:29:39 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/gioithieu.php on line 12
+[03-Nov-2015 23:29:39 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/gioithieu.php on line 29
+[03-Nov-2015 23:29:39 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/gioithieu.php on line 44
+[03-Nov-2015 23:29:39 Asia/Bangkok] PHP Notice:  Undefined index: Send in /home/annamchi/public_html/admin/gioithieu.php on line 73
+[03-Nov-2015 23:29:39 Asia/Bangkok] PHP Notice:  Undefined index: title in /home/annamchi/public_html/admin/gioithieu.php on line 109
+[03-Nov-2015 23:29:39 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/gioithieu.php on line 124
+[03-Nov-2015 23:29:39 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/gioithieu.php on line 149
+[03-Nov-2015 23:29:39 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/gioithieu.php on line 280
+[04-Nov-2015 00:00:44 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[04-Nov-2015 00:00:44 Asia/Bangkok] PHP Notice:  Undefined index: InsertUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 4
+[04-Nov-2015 00:00:44 Asia/Bangkok] PHP Notice:  Undefined index: UpdateUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 16
+[04-Nov-2015 00:00:44 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/SupportOnline.php on line 31
+[04-Nov-2015 00:00:44 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/SupportOnline.php on line 46
+[04-Nov-2015 00:00:44 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/SupportOnline.php on line 61
+[04-Nov-2015 00:00:44 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 78
+[04-Nov-2015 00:00:44 Asia/Bangkok] PHP Notice:  Undefined variable: id in /home/annamchi/public_html/admin/SupportOnline.php on line 99
+[04-Nov-2015 00:00:44 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 127
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: file in /home/annamchi/public_html/admin/Product.php on line 34
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/Product.php on line 136
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/Product.php on line 169
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/Product.php on line 185
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/Product.php on line 217
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 333
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 490
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/Product.php on line 490
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 500
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 530
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 546
+[04-Nov-2015 01:04:15 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/Product.php on line 547
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: file in /home/annamchi/public_html/admin/Product.php on line 34
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/Product.php on line 136
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/Product.php on line 169
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/Product.php on line 185
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: Send in /home/annamchi/public_html/admin/Product.php on line 220
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: title in /home/annamchi/public_html/admin/Product.php on line 260
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 267
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: subCategory in /home/annamchi/public_html/admin/Product.php on line 277
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/Product.php on line 277
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: price in /home/annamchi/public_html/admin/Product.php on line 285
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/Product.php on line 299
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined variable: row in /home/annamchi/public_html/admin/Product.php on line 310
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 333
+[04-Nov-2015 01:04:19 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/Product.php on line 490
+[04-Nov-2015 01:07:01 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[04-Nov-2015 01:07:01 Asia/Bangkok] PHP Notice:  Undefined index: InsertCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 6
+[04-Nov-2015 01:07:01 Asia/Bangkok] PHP Notice:  Undefined index: EditCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 19
+[04-Nov-2015 01:07:01 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/MenuProduct.php on line 30
+[04-Nov-2015 01:07:01 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/MenuProduct.php on line 46
+[04-Nov-2015 01:07:01 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/MenuProduct.php on line 67
+[04-Nov-2015 01:07:01 Asia/Bangkok] PHP Notice:  Undefined index: capnhat in /home/annamchi/public_html/admin/MenuProduct.php on line 86
+[04-Nov-2015 01:07:01 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 140
+[04-Nov-2015 01:07:01 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/annamchi/public_html/admin/MenuProduct.php on line 154
+[04-Nov-2015 01:07:01 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 175
+[18-Nov-2015 09:15:13 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[18-Nov-2015 09:15:13 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[18-Nov-2015 09:15:13 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[18-Nov-2015 09:15:13 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[16-Jan-2016 19:03:15 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[16-Jan-2016 19:03:15 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[16-Jan-2016 19:03:15 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[16-Jan-2016 19:03:15 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[21-Jan-2016 12:33:25 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[21-Jan-2016 12:33:25 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[21-Jan-2016 12:33:26 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[21-Jan-2016 12:33:26 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[23-Mar-2016 12:25:31 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Mar-2016 12:25:31 Asia/Bangkok] PHP Notice:  Undefined index: fullname in /home/annamchi/public_html/admin/index.php on line 34
+[23-Mar-2016 12:25:32 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[23-Mar-2016 12:25:32 Asia/Bangkok] PHP Notice:  Undefined index: modn in /home/annamchi/public_html/admin/center.php on line 11
+[23-Mar-2016 12:25:56 Asia/Bangkok] PHP Notice:  Undefined index: mana_modul in /home/annamchi/public_html/admin/check_login.php on line 17
+[23-Mar-2016 12:25:56 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Mar-2016 12:25:56 Asia/Bangkok] PHP Notice:  Undefined index: site in /home/annamchi/public_html/admin/index.php on line 45
+[23-Mar-2016 12:26:08 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Mar-2016 12:26:08 Asia/Bangkok] PHP Notice:  Undefined index: InsertUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 4
+[23-Mar-2016 12:26:08 Asia/Bangkok] PHP Notice:  Undefined index: UpdateUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 16
+[23-Mar-2016 12:26:08 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/SupportOnline.php on line 31
+[23-Mar-2016 12:26:08 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/SupportOnline.php on line 46
+[23-Mar-2016 12:26:08 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/SupportOnline.php on line 61
+[23-Mar-2016 12:26:08 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 78
+[23-Mar-2016 12:26:08 Asia/Bangkok] PHP Notice:  Undefined variable: id in /home/annamchi/public_html/admin/SupportOnline.php on line 99
+[23-Mar-2016 12:26:08 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 127
+[23-Mar-2016 12:26:10 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Mar-2016 12:26:10 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/gioithieu.php on line 12
+[23-Mar-2016 12:26:10 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/gioithieu.php on line 29
+[23-Mar-2016 12:26:10 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/gioithieu.php on line 44
+[23-Mar-2016 12:26:10 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/gioithieu.php on line 62
+[23-Mar-2016 12:26:10 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/gioithieu.php on line 149
+[23-Mar-2016 12:26:10 Asia/Bangkok] PHP Notice:  Undefined index: category in /home/annamchi/public_html/admin/gioithieu.php on line 280
+[23-Mar-2016 12:26:18 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Mar-2016 12:26:18 Asia/Bangkok] PHP Notice:  Undefined index: InsertCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 6
+[23-Mar-2016 12:26:18 Asia/Bangkok] PHP Notice:  Undefined index: EditCategory in /home/annamchi/public_html/admin/MenuProduct.php on line 19
+[23-Mar-2016 12:26:18 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/MenuProduct.php on line 30
+[23-Mar-2016 12:26:18 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/MenuProduct.php on line 46
+[23-Mar-2016 12:26:18 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/MenuProduct.php on line 67
+[23-Mar-2016 12:26:18 Asia/Bangkok] PHP Notice:  Undefined index: capnhat in /home/annamchi/public_html/admin/MenuProduct.php on line 86
+[23-Mar-2016 12:26:18 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 140
+[23-Mar-2016 12:26:18 Asia/Bangkok] PHP Notice:  Undefined index: id in /home/annamchi/public_html/admin/MenuProduct.php on line 154
+[23-Mar-2016 12:26:18 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/MenuProduct.php on line 175
+[23-Mar-2016 12:26:23 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Mar-2016 12:26:23 Asia/Bangkok] PHP Notice:  Undefined index: InsertNews in /home/annamchi/public_html/admin/thanhvien.php on line 15
+[23-Mar-2016 12:26:23 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/thanhvien.php on line 40
+[23-Mar-2016 12:26:23 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/thanhvien.php on line 54
+[23-Mar-2016 12:26:23 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/thanhvien.php on line 68
+[23-Mar-2016 12:26:23 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/thanhvien.php on line 83
+[23-Mar-2016 12:26:23 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/thanhvien.php on line 165
+[23-Mar-2016 12:26:44 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Mar-2016 12:26:44 Asia/Bangkok] PHP Notice:  Undefined index: InsertUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 4
+[23-Mar-2016 12:26:44 Asia/Bangkok] PHP Notice:  Undefined index: UpdateUsers in /home/annamchi/public_html/admin/SupportOnline.php on line 16
+[23-Mar-2016 12:26:44 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/SupportOnline.php on line 31
+[23-Mar-2016 12:26:44 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/SupportOnline.php on line 46
+[23-Mar-2016 12:26:44 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/SupportOnline.php on line 61
+[23-Mar-2016 12:26:44 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 78
+[23-Mar-2016 12:26:44 Asia/Bangkok] PHP Notice:  Undefined variable: id in /home/annamchi/public_html/admin/SupportOnline.php on line 99
+[23-Mar-2016 12:26:44 Asia/Bangkok] PHP Notice:  Undefined index: Edit in /home/annamchi/public_html/admin/SupportOnline.php on line 127
+[23-Mar-2016 12:26:47 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Mar-2016 12:26:47 Asia/Bangkok] PHP Notice:  Undefined index: InsertNews in /home/annamchi/public_html/admin/thanhvien.php on line 15
+[23-Mar-2016 12:26:47 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/thanhvien.php on line 40
+[23-Mar-2016 12:26:47 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/thanhvien.php on line 54
+[23-Mar-2016 12:26:47 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/thanhvien.php on line 68
+[23-Mar-2016 12:26:47 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/thanhvien.php on line 83
+[23-Mar-2016 12:26:47 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/thanhvien.php on line 165
+[23-Mar-2016 12:26:57 Asia/Bangkok] PHP Notice:  Constant hdc already defined in /home/annamchi/public_html/admin/define_data.php on line 32
+[23-Mar-2016 12:26:57 Asia/Bangkok] PHP Notice:  Undefined index: InsertNews in /home/annamchi/public_html/admin/thanhvien.php on line 15
+[23-Mar-2016 12:26:57 Asia/Bangkok] PHP Notice:  Undefined index: ItemDel in /home/annamchi/public_html/admin/thanhvien.php on line 40
+[23-Mar-2016 12:26:57 Asia/Bangkok] PHP Notice:  Undefined index: ItemHid in /home/annamchi/public_html/admin/thanhvien.php on line 54
+[23-Mar-2016 12:26:57 Asia/Bangkok] PHP Notice:  Undefined index: ItemShow in /home/annamchi/public_html/admin/thanhvien.php on line 68
+[23-Mar-2016 12:26:57 Asia/Bangkok] PHP Notice:  Undefined index: AddNews in /home/annamchi/public_html/admin/thanhvien.php on line 83
+[23-Mar-2016 12:26:57 Asia/Bangkok] PHP Notice:  Undefined index: page in /home/annamchi/public_html/admin/thanhvien.php on line 165
