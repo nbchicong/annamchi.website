@@ -10,23 +10,25 @@
  * @author: nbchicong
  */
 
-include_once $_SERVER['DOCUMENT_ROOT'].'/libs/utils/common/Common.php';
-include_once $_SERVER['DOCUMENT_ROOT'].'/static/cmheader.php';
+include_once 'libs/model/db.php';
+include_once 'libs/core/base.php';
+include_once 'libs/core/db.php';
+include_once 'common/common.php';
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi">
   <head>
     <meta content="An Nam Chí cung cấp các mặt hàng quà tặng cho Doanh nghiệp và cá nhân" name="description" />
     <meta content="An Nam Chi, An Nam Chí, Qua Tang, Quà Tặng, Doanh Nghiep, Ca Nhan" name="keywords" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link rel="shortcut icon" href="<?=$appHome;?>images/favicon.ico" type="image/x-icon" />
-    <link href="<?=$appHome;?>css/style.css" rel="stylesheet" type="text/css" media="all">
-    <script type="text/javascript" src="<?=STATIC_JQUERY;?>"></script>
-    <script type="text/javascript" src="<?=$appHome;?>js/jquery/plugins/jquery.slider.js"></script>
-    <script type="text/javascript" src="<?=$appHome;?>js/jquery/plugins/jquery.easing.js"></script>
-    <script type="text/javascript" src="<?=$appHome;?>js/jquery/plugins/jquery.serialscroll.js"></script>
-    <script type="text/javascript" src="<?=$appHome;?>js/jquery/plugins/jquery.effect.js"></script>
-    <script type="text/javascript" src="<?=$appHome;?>js/jquery/application.js"></script>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
+    <script type="text/javascript" src="<?=JQUERY_CORE;?>"></script>
+    <script type="text/javascript" src="<?=SLIDER_PLUGIN;?>"></script>
+    <script type="text/javascript" src="<?=EASING_PLUGIN;?>"></script>
+    <script type="text/javascript" src="<?=SCROLL_PLUGIN;?>"></script>
+    <script type="text/javascript" src="<?=EFFECT_PLUGIN;?>"></script>
+    <script type="text/javascript" src="<?=APPLICATION_CORE;?>"></script>
   </head>
   <body>
     <div class="wrapper">

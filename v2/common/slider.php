@@ -1,17 +1,17 @@
 <?php
-import('app.admin.action.product.FindHotProductAction');
-$finder = new FindHotProductAction();
-$hotProduct = $finder->execute();
-$imgRoot = _WEB_ROOT_.'/web/'.$_SESSION[$sessionPrefix].'/';
+include_once 'libs/service/ProductService.php';
+use libs\service\ProductService;
+$finder = new ProductService();
+$hotProduct = $finder->getRecentlyProduct();
 ?>
 <div id="slider-product" class="slider-top">
 <?php
-if ($hotProduct['total'] > 0) {
-    $items = $hotProduct['items'];
+if ($hotProduct->getTotal() > 0) {
+    $items = $hotProduct->getItems();
     for($i = 0; $i < count($items); $i++) {
         $item = $items[$i];
 ?>
-    <a href="javascript:;" class="show"><img src="<?=$imgRoot.$item['thumbImage']?>" title="<?=$item['name']?>"></a>
+    <a href="javascript:;" class="show"><img src="images/product/thumbs/<?=$item['picture']?>" title="<?=$item['name']?>"></a>
 <?php
     }
 }

@@ -1,24 +1,25 @@
 <?php
-import('app.admin.action.page.FindPageItem');
-$pageItem = new FindPageItem();
+include_once 'libs/service/PageGuide.php';
+use libs\service\PageGuide;
+$pageGuide = new PageGuide();
+$pageList = $pageGuide->getListPage();
 ?>
 <ul class="menu-top">
   <li>
-    <a href="/" class="active">Trang chủ</a>
+    <a href="<?=HOME_URL;?>" class="active">Trang chủ</a>
   </li>
   <?php
-  $pageList = $pageItem->execute();
   if ($pageList['total'] > 0) {
     foreach($pageList['items'] as $page) {
   ?>
   <li>
-    <a href="index.php?box=page-content&id=<?=$page['id']?>"><?=$page['name']?></a>
+    <a href="page-<?=$page['id']?>.html"><?=$page['name']?></a>
   </li>
   <?php
     }
   }
   ?>
   <li>
-    <a href="contact.php">Liên hệ</a>
+    <a href="contact.html">Liên hệ</a>
   </li>
 </ul>

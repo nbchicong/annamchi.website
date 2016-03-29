@@ -6,19 +6,19 @@
  * Time: 02:26
  * ---------------------------------------------------
  * Project: annamchi
- * @name: constraints.php
- * @package: v2\libs\data
+ * @name: db.php
+ * @package: libs\model
  * @author: nbchicong
  */
 
-namespace v2\libs\data;
+namespace libs\model;
 
-class Constraints {
-  private $dbHost = "";
-  private $dbUser = "";
-  private $dbPassword = "";
-  private $dbName = "";
-  private $domain = "http://annamchi.com";
+class DbModel {
+  private $dbHost = "localhost";
+  private $dbUser = "annamchi_shop";
+  private $dbPassword = "shop165@annamchi.com";
+  private $dbName = "annamchi_cloud_anc";
+  private $domain = HOME_URL;
 
   /**
    * @return string

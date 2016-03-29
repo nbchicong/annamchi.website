@@ -7,17 +7,19 @@
  * ---------------------------------------------------
  * Project: annamchi
  * @name: base.php
- * @package: v2\libs\core
+ * @package: libs\core
  * @author: nbchicong
  */
 
-namespace v2\libs\core;
+namespace libs\core;
 
 class Base {
   private $configPath = "";
+  
   public function setConfigPath($config) {
     $this->configPath = $config;
   }
+
   public function getConfigPath() {
     return $this->configPath;
   }

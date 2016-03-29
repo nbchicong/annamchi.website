@@ -1,8 +1,7 @@
 <?php
-import('app.admin.provider.category.FindCategory');
-import('app.admin.provider.product.NewProduct');
-$category = new FindCategory();
-$imgRoot = _WEB_ROOT_.'/web/'.$_SESSION[$sessionPrefix].'/';
+use libs\service\MenuProductService;
+$category = new MenuProductService();
+$listCate = $category->getList();
 ?>
 <div class="menu-left">
   <!-- BEGIN Block categories module -->
@@ -11,13 +10,12 @@ $imgRoot = _WEB_ROOT_.'/web/'.$_SESSION[$sessionPrefix].'/';
     <div class="block-content">
       <ul class="tree">
         <?php
-        $listCate = $category->getCateNoParent();
-        $items = $listCate['items'];
-        for ($i = 0; $i < $listCate['total']; $i ++) {
+        $items = $listCate->getItems();
+        for ($i = 0; $i < $listCate->getTotal(); $i ++) {
           $item = $items[$i];
         ?>
         <li>
-          <a href="index.php?box=list-product&cate=<?=$item['id']?>" title="<?=$item['name']?>"><?=$item['name']?></a>
+          <a href="product-<?=$item['id']?>.html" title="<?=$item['name']?>"><?=$item['name']?></a>
           <ul class="submenu">
           <?php
           if (@isset($_GET['cate'])) {
