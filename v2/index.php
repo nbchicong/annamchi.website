@@ -44,12 +44,12 @@ include_once 'common/common.php';
               <?php include_once 'common/menu-left.php';?>
               <div class="box-content">
                 <?php
-                if (@isset($_GET['box']) && !@empty($_GET['box'])){
-                  $box = $_GET['box'];
-                  include_once 'box/'.$box.'.php';
-                } else {
-                  include_once 'box/list-product.php';
-                }
+//                if (@isset($_GET['box']) && !@empty($_GET['box'])){
+//                  $box = $_GET['box'];
+//                  include_once 'box/'.$box.'.php';
+//                } else {
+//                  include_once 'box/list-product.php';
+//                }
                 ?>
               </div>
             </div>

@@ -23,17 +23,39 @@ class ProductService extends AbstractService {
   protected $table = 'product';
 
   public function getListProduct() {
+    $cate = "";
+    $hasCate = false;
+    if (@isset($_GET['cate'])) {
+      if (!@empty($_GET['cate'])) {
+        $cate = $this->getText($_GET['cate']);
+        $hasCate = true;
+      }
+    }
+    if (@isset($_GET['sub'])) {
+      if (!@empty($_GET['sub'])) {
+        $cate = $_GET['sub'];
+        $hasCate = true;
+      }
+    }
     $this->setQueryStr('SELECT * FROM `'.$this->getTableName().'` ORDER BY id ASC');
+    if ($hasCate) {
+      $this->setQueryStr('SELECT * FROM `'.$this->getTableName().'` WHERE `category=`'.$cate.' ORDER BY id ASC');
+    }
     return new ObjectWebService($this->fetchData($this->queryDb()));
   }
 
-  public function getRecentlyProduct() {
+  public function getSepcialProduct() {
     $this->setQueryStr('SELECT *	FROM `'. $this->getTableName() .'` WHERE `status`="true" AND `picture`<>"" ORDER BY `postdate` DESC LIMIT 10');
     return new ObjectWebService($this->fetchData($this->queryDb()));
   }
 
-  public function getProduct($pageId) {
-    $this->setQueryStr('SELECT * FROM `'.$this->getTableName().'` WHERE `id`='.$this->getText($pageId));
+  public function getHotProduct() {
+    $this->setQueryStr('SELECT *	FROM `'. $this->getTableName() .'` WHERE `status`="true" AND `picture`<>"" ORDER BY `postdate` DESC LIMIT 10');
+    return new ObjectWebService($this->fetchData($this->queryDb()));
+  }
+
+  public function getProduct($productId) {
+    $this->setQueryStr('SELECT * FROM `'.$this->getTableName().'` WHERE `id`='.intval($productId));
     return $this->fetchData($this->queryDb());
   }
 }

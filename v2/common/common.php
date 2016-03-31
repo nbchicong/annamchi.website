@@ -19,3 +19,4 @@ define('SCROLL_PLUGIN', 'js/jquery/plugins/jquery.serialscroll.js');
 define('SLIDER_PLUGIN', 'js/jquery/plugins/jquery.slider.js');
 define('HOME_URL', 'http://annamchi.com');
 define('TABLE_PREFIX', 'hdc_');
+define('SUB', 'v2/');

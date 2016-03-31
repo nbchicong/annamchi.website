@@ -26,4 +26,10 @@ class MenuProductService extends AbstractService {
                         AND `parent` = "0" ORDER BY `stt` ASC');
     return new ObjectWebService($this->fetchData($this->queryDb()));
   }
+
+  public function getSubList($parentId) {
+    $this->setQueryStr('SELECT * FROM `' . $this->getTableName() . '` WHERE `status`="true" 
+                        AND `parent`="'.$parentId.'" ORDER BY `stt` ASC');
+    return new ObjectWebService($this->fetchData($this->queryDb()));
+  }
 }

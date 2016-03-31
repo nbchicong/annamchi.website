@@ -14,9 +14,9 @@
 namespace libs\model;
 
 class DbModel {
-  private $dbHost = "localhost";
-  private $dbUser = "annamchi_shop";
-  private $dbPassword = "shop165@annamchi.com";
+  private $dbHost = "db01.serverhosting.vn";
+  private $dbUser = "annamchi_test";
+  private $dbPassword = "test@123456";
   private $dbName = "annamchi_cloud_anc";
   private $domain = HOME_URL;
 

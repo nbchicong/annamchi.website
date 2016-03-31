@@ -13,7 +13,7 @@
 
 namespace libs\core;
 
-include_once 'libs/model/DbModel.php';
+include_once 'libs/model/db.php';
 use libs\model\DbModel;
 
 class Db extends Base {
@@ -70,6 +70,7 @@ class Db extends Base {
     $isSelected = @mysql_select_db($model->getDbName(), $this->getConnection());
     if ($isSelected) {
       $this->setSelected(true);
+      mysql_query("SET NAMES 'UTF8'");
       return $this->getConnection();
     } else {
       die ("Can not connect to database with name: " . $model->getDbName());

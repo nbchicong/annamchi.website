@@ -1,22 +1,10 @@
 <?php
-  import('app.admin.provider.product.FindProduct');
-  $findProduct = new FindProduct();
+  include_once 'libs/service/ProductService.php';
+  use libs\service\ProductService;
+  $finder = new ProductService();
   $hasCate = false;
   $cateInfo = null;
-  $listProducts = $findProduct->execute();
-  if (@isset($_GET['cate'])) {
-    if (!@empty($_GET['cate'])) {
-      $cateInfo = $category->getById($_GET['cate']);
-      $hasCate = true;
-    }
-  }
-  if (@isset($_GET['sub'])) {
-    if (!@empty($_GET['sub'])) {
-      $cateInfo = $category->getById($_GET['sub']);
-      $hasCate = true;
-    }
-  }
-  $imgRoot = _WEB_ROOT_.'/web/'.$_SESSION[$sessionPrefix].'/';
+  $listProducts = $finder->getListProduct();
 ?>
 <div class="list-product">
   <?php

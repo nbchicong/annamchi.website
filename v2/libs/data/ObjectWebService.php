@@ -64,7 +64,8 @@ class ObjectWebService {
   }
 
   public function getItems() {
-    return $this->getOutput()['items'];
+    $output = $this->getOutput();
+    return $output['items'];
   }
 
   /**

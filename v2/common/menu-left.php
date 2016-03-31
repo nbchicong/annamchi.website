@@ -1,7 +1,15 @@
 <?php
+include_once 'libs/service/MenuProductService.php';
+include_once 'libs/service/SupporterService.php';
 use libs\service\MenuProductService;
+use libs\service\SupporterService;
+use libs\service\ProductService;
 $category = new MenuProductService();
+$supporter = new SupporterService();
+$product = new ProductService();
 $listCate = $category->getList();
+$listSupporter = $supporter->getList();
+$listNewProduct = $product->getHotProduct();
 ?>
 <div class="menu-left">
   <!-- BEGIN Block categories module -->
@@ -15,18 +23,19 @@ $listCate = $category->getList();
           $item = $items[$i];
         ?>
         <li>
-          <a href="product-<?=$item['id']?>.html" title="<?=$item['name']?>"><?=$item['name']?></a>
+          <a href="product-<?=$item['id']?>.html" title="<?=$item['category']?>"><?=$item['category']?></a>
           <ul class="submenu">
           <?php
           if (@isset($_GET['cate'])) {
             $requestItem = $_GET['cate'];
             if (!@empty($requestItem) && $requestItem == $item['id']) {
-              $subItems = $category->getByParent($item['id']);
-              if ($subItems['total'] > 0) {
-                for ($j = 0; $j < $subItems['total']; $j ++) {
-                  $sub = $subItems['items'][$j];
+              $subList = $category->getSubList($item['id']);
+              if ($subList->getTotal() > 0) {
+                $subItems = $subList->getItems();
+                for ($j = 0; $j < $subList->getTotal(); $j ++) {
+                  $sub = $subItems[$j];
                   ?>
-            <li><a href="index.php?box=list-product&cate=<?=$requestItem?>&sub=<?=$sub['id']?>"><?=$sub['name']?></a></li>
+            <li><a href="product-<?=$item['id']?>|<?=$sub['id']?>.html" title="<?=$sub['category']?>"><?=$sub['category']?></a></li>
                   <?php
                 }
               }
@@ -45,21 +54,30 @@ $listCate = $category->getList();
     <h4 style="font-size:16px;">Hỗ trợ trực tuyến</h4>
     <div class="block-content">
       <ul class="tree">
+        <?php
+        $supporterItems = $listSupporter->getItems();
+        for ($i = 0; $i < $listSupporter->getTotal(); $i ++) {
+          $item = $supporterItems[ $i ];
+          if ($item['kind'] != '2') {
+        ?>
         <li>
-          <a href="ymsgr:sendIM?hongdieu_2000">
-            <img src="http://opi.yahoo.com/online?u=hongdieu_2000&amp;m=g&amp;t=2" alt="YM:" border="0"><br><br>0932775549</a>
+          <a href="ymsgr:sendIM?<?=$item['nick']?>"><img src="http://opi.yahoo.com/online?u=<?=$item['nick']?>&amp;m=g&amp;t=2" alt="YM:<?=$item['fullname']?>" border="0"><br><?=$item['fullname']?><br><?=$item['phone']?></a>
         </li>
+        <?php
+          } else {
+        ?>
         <li>
-          <a href="ymsgr:sendIM?nbthien216">
-            <img src="http://opi.yahoo.com/online?u=nbthien216&amp;m=g&amp;t=2" alt="YM:" border="0"><br><br>0937880056</a>
+          <a href="skype:<?=$item['nick']?>?chat"><img src="images1/skypecall.gif" alt="Skype:<?=$item['fullname']?>" border="0"><br><?=$item['fullname']?><br><?=$item['phone']?></a>
         </li>
+        <?php
+          }
+        }
+        ?>
       </ul>
     </div>
   </div>
   <?php
-  $newProduct = new NewProduct();
-  $newProductList = $newProduct->execute();
-  if ($newProductList['total'] > 0) {
+  if ($listNewProduct->getTotal() > 0) {
   ?>
   <div id="hot-product" class="new-block block">
     <h4 style="font-size:16px;">Sản phẩm mới</h4>
@@ -68,13 +86,13 @@ $listCate = $category->getList();
         <marquee direction="up" scrollamount="3" height="200px" onmouseover="this.stop()" onmouseout="this.start()"
                  style="height: 200px;">
           <?php
-          foreach($newProductList['items'] as $product) {
+          foreach($listNewProduct->getItems() as $product) {
             ?>
           <li>
-            <a href="index.php?box=product-detail&id=<?=$product['id']?>" title="<?=$product['name']?>">
-              <img src="<?= $imgRoot . $product['thumbImage']?>" width="150" border="0" title="<?=$product['name']?>" alt="<?=$product['name']?>">
+            <a href="product-detail-<?=$product['category']?>|<?=$product['subCategory']?>|<?=$product['id']?>.html" title="<?=$product['title']?>">
+              <img src="images/product/thumbs/<?=$product['picture']?>" width="150" border="0" title="<?=$product['title']?>" alt="<?=$product['title']?>">
             </a>
-            <a href="index.php?box=product-detail&id=<?=$product['id']?>" title="<?=$product['name']?>"><?=$product['name']?></a>
+            <a href="product-detail-<?=$product['category']?>|<?=$product['subCategory']?>|<?=$product['id']?>.html" title="<?=$product['title']?>"><?=$product['title']?></a>
             <div style="font-size: 1px; height: 5px;"></div>
           </li>
           <?php

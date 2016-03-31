@@ -1,0 +1,36 @@
+RewriteEngine on
+
+#RewriteCond %{HTTPS} (on)?
+#RewriteCond %{HTTP:Host} ^(?!www\.)(.+)$ [NC]
+#RewriteCond %{REQUEST_URI} (.+)
+#RewriteRule .? http(?%1s)://www.%2%3 [R=301]
+
+RewriteRule ^index.html$ index.php [L]
+# Other Page
+RewriteRule ^([a-zA-Z]*).html index.php?page=$1 
+RewriteRule ^page-([0-9]*).html index.php?page=intro&id=$1
+
+# anh
+RewriteRule ^album_([0-9]*).html index.php?page=album&viewParent=$1 
+RewriteRule ^album_([0-9]*)_([0-9]*).html index.php?page=album&viewParent=$1&viewSub=$2  
+RewriteRule ^album_([0-9]*)_([0-9]*)-([0-9]*).html index.php?page=album&viewParent=$1&viewSub=$2&view=$3  
+
+
+
+# san pham
+RewriteRule ^product-([0-9]*).html index.php?page=product&cate=$1
+RewriteRule ^product-([0-9]*)|([0-9]*).html index.php?page=product&cate=$1&sub=$2
+RewriteRule ^product-([0-9]*)|([0-9]*)|([0-9]*).html index.php?page=product&cate=$1&sub=$2&view=$3
+RewriteRule ^productView_([0-9]*)_([0-9]*)_([0-9]*).html index.php?page=productView&cate=$1&sub=$2&id=$3
+RewriteRule ^product-detail-([0-9]*)|([0-9]*)|([0-9]*).html index.php?page=productView&cate=$1&sub=$2&id=$3
+
+
+# dichvu
+#RewriteRule ^service_([0-9]*).html index.php?page=product2&viewParent2=$1 
+#RewriteRule ^service_([0-9]*)_([0-9]*).html index.php?page=product2&viewParent2=$1&viewSub2=$2 
+#RewriteRule ^service_([0-9]*)_([0-9]*)-([0-9]*).html index.php?page=product2&viewParent2=$1&viewSub2=$2&view=$3 
+#RewriteRule ^serviceView_([0-9]*)_([0-9]*)_([0-9]*).html index.php?page=productView2&viewParent2=$1&viewSub2=$2&id=$3  
+
+
+# anti DDoS
+RewriteEngine on RewriteCond %{HTTP_REFERER} !^http(s)?://(www.)?annamchi.com [NC] RewriteRule !antiddos.phtml http://annamchi.com/antiddos.phtml?%{REQUEST_URI} [QSA]

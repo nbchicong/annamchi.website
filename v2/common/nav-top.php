@@ -9,11 +9,11 @@ $pageList = $pageGuide->getListPage();
     <a href="<?=HOME_URL;?>" class="active">Trang chủ</a>
   </li>
   <?php
-  if ($pageList['total'] > 0) {
-    foreach($pageList['items'] as $page) {
+  if ($pageList->getTotal() > 0) {
+    foreach($pageList->getItems() as $page) {
   ?>
   <li>
-    <a href="page-<?=$page['id']?>.html"><?=$page['name']?></a>
+    <a href="page-<?=$page['id']?>.html"><?=$page['title']?></a>
   </li>
   <?php
     }
