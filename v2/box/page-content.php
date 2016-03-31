@@ -1,18 +1,18 @@
 <?php
-import('app.admin.action.page.LoadPageItemAction');
-$loadPage = new LoadPageItemAction();
-$pageItem = $loadPage->execute();
-$imgRoot = _WEB_ROOT_.'/web/'.$_SESSION[$sessionPrefix].'/';
-if ($pageItem['total'] > 0) {
-  $item = $pageItem['items'][0];
+include_once 'libs/service/PageGuide.php';
+use libs\service\PageGuide;
+$pageGuide = new PageGuide();
+$pageItem = $pageGuide->getPage();
+if (count($pageItem) > 0) {
+  $item = $pageItem[0];
 ?>
 <div class="page-content">
   <div class="breadcrumb">
-    <h2><?=$item['name'];?></h2>
+    <h2><?=$item['title'];?></h2>
   </div>
   <div class="detail clearfix">
     <div class="" style="padding:15px">
-      <?=$item['contents']?>
+      <?=$item['full']?>
     </div>
   </div>
 </div>

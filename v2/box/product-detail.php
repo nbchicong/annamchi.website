@@ -1,19 +1,29 @@
 <?php
-import('app.admin.provider.product.FindProduct');
-$findProduct = new FindProduct();
-$product = $findProduct->execute();
-$imgRoot = _WEB_ROOT_.'/web/'.$_SESSION[$sessionPrefix].'/';
-if ($product['total'] > 0) {
-  $item = $product['items'][0];
+include_once 'libs/service/ProductService.php';
+use libs\service\ProductService;
+$findProduct = new ProductService();
+$product = $findProduct->getProduct();
+if (count($product) > 0) {
+  $item = $product[0];
 ?>
 <div class="product-info">
   <div class="breadcrumb">
-    <h2><?=$item['name'];?></h2>
+    <h2><?=$item['title'];?></h2>
   </div>
   <div class="detail clearfix">
     <div class="col left-col">
       <div class="detail-image">
-        <img src="<?=$imgRoot.$item['originImage'];?>"/>
+        <?php
+          if($item['picture2']) {
+        ?>
+        <img src="images/product/goc/<?= $item[ 'picture2' ]; ?>"/>
+        <?
+          } else {
+        ?>
+        <img src="images/product/thumbs/<?=$item['picture'];?>"/>
+        <?
+          }
+        ?>
       </div>
     </div>
     <div class="col right-col">
@@ -33,10 +43,15 @@ if ($product['total'] > 0) {
       </li>
     </ul>
     <div class="more-info-tabs-content">
-      <div id="tab-more-info" class="tab-panel"><?=$item['otherinfo']?></div>
+      <div id="tab-more-info" class="tab-panel"><?=$item['tomtat']?></div>
     </div>
   </div>
 </div>
+<script type="text/javascript">
+  $(function () {
+    scrool_auto();
+  });
+</script>
 <?php
 }
 ?>

@@ -27,8 +27,11 @@ class PageGuide extends AbstractService {
     return new ObjectWebService($this->fetchData($this->queryDb()));
   }
 
-  public function getPage($pageId) {
-    $this->setQueryStr('SELECT * FROM `'.$this->getTableName().'` WHERE `id`='.$this->getText($pageId));
+  public function getPage($pageId="") {
+    if (@empty($pageId)) {
+      $pageId = $_GET['id'];
+    }
+    $this->setQueryStr('SELECT * FROM `'.$this->getTableName().'` WHERE `id`="'.intval($pageId).'"');
     return $this->fetchData($this->queryDb());
   }
 }

@@ -27,7 +27,7 @@
 															while($rowSub = mysql_fetch_array($sqlstrSub)){
 												?>
                                                     <li>
-                                                        <a href="product-<?=$row['id']?>1101<?=$rowSub['id']?><?=$vip?>" title=""><?=$rowSub['category']?></a>
+                                                        <a href="product-<?=$row['id']?>-0-<?=$rowSub['id']?><?=$vip?>" title=""><?=$rowSub['category']?></a>
                                                     </li>
 												<?php
 															}

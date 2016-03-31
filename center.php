@@ -16,14 +16,14 @@
 													$i +=1;
 										?>
                                             <li class="ajax_block_product">
-                                                <a class="product_image" href="product-detail-<?=$row['category']?>1101<?=$row['subCategory']?>1011<?=$row['id']?><?=$vip?>" title="<?=$row['title']?>">
+                                                <a class="product_image" href="product-detail-<?=$row['category']?>-0-<?=$row['subCategory']?>-0-<?=$row['id']?><?=$vip?>" title="<?=$row['title']?>">
 													<img src="images/product/thumbs/<?=$row['picture']?>" alt="<?=$row['title']?>">
 												</a>
                                                 <div class="product_info">
-                                                    <a class="product_image" href="product-detail-<?=$row['category']?>1101<?=$row['subCategory']?>1011<?=$row['id']?><?=$vip?>" title="<?=$row['title']?>"></a>
+                                                    <a class="product_image" href="product-detail-<?=$row['category']?>-0-<?=$row['subCategory']?>-0-<?=$row['id']?><?=$vip?>" title="<?=$row['title']?>"></a>
                                                     <h5>
-														<a class="product_image" href="product-detail-<?=$row['category']?>1101<?=$row['subCategory']?>1011<?=$row['id']?><?=$vip?>" title="Bouquet of tulips "></a>
-														<a class="product_link" href="product-detail-<?=$row['category']?>1101<?=$row['subCategory']?>1011<?=$row['id']?><?=$vip?>" title="<?=$row['title']?>"><?=$row['title']?></a>
+														<a class="product_image" href="product-detail-<?=$row['category']?>-0-<?=$row['subCategory']?>-0-<?=$row['id']?><?=$vip?>" title="<?=$row['title']?>"></a>
+														<a class="product_link" href="product-detail-<?=$row['category']?>-0-<?=$row['subCategory']?>-0-<?=$row['id']?><?=$vip?>" title="<?=$row['title']?>"><?=$row['title']?></a>
 													</h5>
                                                 </div>
 										<?php

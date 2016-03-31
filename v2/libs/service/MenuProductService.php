@@ -32,4 +32,9 @@ class MenuProductService extends AbstractService {
                         AND `parent`="'.$parentId.'" ORDER BY `stt` ASC');
     return new ObjectWebService($this->fetchData($this->queryDb()));
   }
+
+  public function getCate($cateId) {
+    $this->setQueryStr('SELECT * FROM `'.$this->getTableName().'` WHERE `id`='.intval($cateId));
+    return $this->fetchData($this->queryDb());
+  }
 }

@@ -35,7 +35,7 @@ $listNewProduct = $product->getHotProduct();
                 for ($j = 0; $j < $subList->getTotal(); $j ++) {
                   $sub = $subItems[$j];
                   ?>
-            <li><a href="product-<?=$item['id']?>|<?=$sub['id']?>.html" title="<?=$sub['category']?>"><?=$sub['category']?></a></li>
+            <li><a href="product-<?=$item['id'].SLASH.$sub['id']?>.html" title="<?=$sub['category']?>"><?=$sub['category']?></a></li>
                   <?php
                 }
               }
@@ -89,10 +89,10 @@ $listNewProduct = $product->getHotProduct();
           foreach($listNewProduct->getItems() as $product) {
             ?>
           <li>
-            <a href="product-detail-<?=$product['category']?>|<?=$product['subCategory']?>|<?=$product['id']?>.html" title="<?=$product['title']?>">
+            <a href="product-detail-<?=$product['category'].SLASH.$product['subCategory'].SLASH.$product['id']?>.html" title="<?=$product['title']?>">
               <img src="images/product/thumbs/<?=$product['picture']?>" width="150" border="0" title="<?=$product['title']?>" alt="<?=$product['title']?>">
             </a>
-            <a href="product-detail-<?=$product['category']?>|<?=$product['subCategory']?>|<?=$product['id']?>.html" title="<?=$product['title']?>"><?=$product['title']?></a>
+            <a href="product-detail-<?=$product['category'].SLASH.$product['subCategory'].SLASH.$product['id']?>.html" title="<?=$product['title']?>"><?=$product['title']?></a>
             <div style="font-size: 1px; height: 5px;"></div>
           </li>
           <?php
