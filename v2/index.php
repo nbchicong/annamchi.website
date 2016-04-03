@@ -10,10 +10,12 @@
  * @author: nbchicong
  */
 
-include_once 'libs/model/db.php';
-include_once 'libs/core/base.php';
-include_once 'libs/core/db.php';
+ob_start();
+session_start();
 include_once 'common/common.php';
+include_once 'libs/model/Db.php';
+include_once 'libs/core/Base.php';
+include_once 'libs/core/Db.php';
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi">
@@ -23,12 +25,12 @@ include_once 'common/common.php';
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all">
-    <script type="text/javascript" src="<?=JQUERY_CORE;?>"></script>
-    <script type="text/javascript" src="<?=SLIDER_PLUGIN;?>"></script>
-    <script type="text/javascript" src="<?=EASING_PLUGIN;?>"></script>
-    <script type="text/javascript" src="<?=SCROLL_PLUGIN;?>"></script>
-    <script type="text/javascript" src="<?=EFFECT_PLUGIN;?>"></script>
-    <script type="text/javascript" src="<?=APPLICATION_CORE;?>"></script>
+    <script type="text/javascript" src="<?=$_SESSION['JQUERY_CORE'];?>"></script>
+    <script type="text/javascript" src="<?=$_SESSION['SLIDER_PLUGIN'];?>"></script>
+    <script type="text/javascript" src="<?=$_SESSION['EASING_PLUGIN'];?>"></script>
+    <script type="text/javascript" src="<?=$_SESSION['SCROLL_PLUGIN'];?>"></script>
+    <script type="text/javascript" src="<?=$_SESSION['EFFECT_PLUGIN'];?>"></script>
+    <script type="text/javascript" src="<?=$_SESSION['APPLICATION_CORE'];?>"></script>
   </head>
   <body>
     <div class="wrapper">
