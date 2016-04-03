@@ -13,6 +13,9 @@
 
 namespace libs\core;
 
+include_once $_SERVER['DOCUMENT_ROOT'].$_SESSION['SUB']."libs/core/Base.php";
+include_once $_SERVER['DOCUMENT_ROOT'].$_SESSION['SUB']."libs/core/Db.php";
+
 class AbstractService extends Base {
   protected $table;
   protected $connection;
