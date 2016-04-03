@@ -13,11 +13,11 @@
 
 namespace libs\service;
 
-include_once 'libs/core/AbstractService.php';
-include_once 'libs/data/ObjectWebService.php';
+include_once $_SERVER['DOCUMENT_ROOT'].$_SESSION['SUB'].'libs/core/AbstractService.php';
+include_once $_SERVER['DOCUMENT_ROOT'].$_SESSION['SUB'].'libs/data/ObjectWebService.php';
 
 use libs\core\AbstractService;
-use libs\data\ObjectWebService;;
+use libs\data\ObjectWebService;
 
 class MenuProductService extends AbstractService {
   protected $table = 'menu_product';
